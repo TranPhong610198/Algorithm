@@ -1,0 +1,10 @@
+Wirtten by Tran Phong in 3 : 20 PM September 13th 2023
+
+        ------------Thì ở đây sẽ nói về Insertion Sort tiếng việt là sắp xếp chèn------------
+
+            * Ý tưởng của thuật toán 
+                      
+            * Ví dụ minh họa 
+                    
+            * Đánh giá thuật toán sắp xếp nổi bọt
+                            
